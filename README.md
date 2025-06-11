@@ -21,7 +21,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
   
 --- 
 
-<a><img src='https://files.catbox.moe/nzc6xk.jpg'/></a>
+<a><img src='https://files.catbox.moe/cqcwdu.jpg'/></a>
 
 
 
@@ -43,7 +43,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 > **1. PAIR CODE SESSION ID**
 
-<a href='https://meg-lodon-session.onrender.com/' target="_blank">
+<a href='https://THEMASTER-MD-session.onrender.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
