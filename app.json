@@ -2,7 +2,7 @@
   "name": "THE-MASTER-MD",
   "description": "Javascript WhatsApp bot made THE-MASTER-TECH",
   "logo": "https://files.catbox.moe/cqcwdu.jpg",
-  "keywords": ["THE-MASTER-XD"],
+  "keywords": ["THE-MASTER-MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "THE MASTER XD"
+      "value": "THE-MASTER-MD"
     }, 
       
     "PREFIX": {
@@ -79,7 +79,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY THE MASTER XD*"
+      "value": "*SEEN YOUR STATUS BY THE MASTER MD*"
    
      }, 
     
@@ -99,7 +99,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "THE MASTER XD"
+      "value": "THE MASTER MD"
 
       }, 
 
