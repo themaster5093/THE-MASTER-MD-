@@ -1,12 +1,10 @@
-# THE-MASTER-MDX-1 
-New bot WhatsApp by the master tech
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&height=200&lines=THE-MASTER-MDX-1-;VERSION+2025;BY+THEMASTER+TECH" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&height=200&lines=THE-MASTER-MDX-V1;VERSION+2025;BY+THE+MASTER" alt="Typing SVG" />
   </a>
 </p>
 
-<h1 align="center">✨ THE NEXT GEN WHATSAPP BOT ✨<br>BY THEMASTERTECH</h1>
+<h1 align="center">✨ THE NEXT GEN WHATSAPP BOT ✨<br>BY THE-MASTER</h1>
 
 ---
 
@@ -17,16 +15,16 @@ New bot WhatsApp by the master tech
 ---
 
 <p align="center">
-  <a href=“ https://github.com/themaster5093/THE-MASTER-MDX-1">
-    <img title="Author" src="https://img.shields.io/badge/Author-THE-MASTER%20TECH-ff004d?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/themaster5093">
+    <img title="Author" src="https://img.shields.io/badge/Author-THE%20MASTER-ff004d?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb6DqIiL7UVT3yjH7O1t">
+  <a href="https://whatsapp.com/channel/0029Vb6T8td5K3zQZbsKEU1R">
     <img title="Join WhatsApp Channel" src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/THE-MASTER-MDX-1/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/themaster5093/count.svg" alt="Visitor Count" />
 </p>
 
 ---
@@ -37,7 +35,7 @@ New bot WhatsApp by the master tech
 - ✅ Session Sharing System  
 - ✅ Fully Open Source  
 - ✅ Auto QR to DM  
-- ✅ Session ID Generator (`THE-MASTER-SESSION-ID`)  
+- ✅ Session ID Generator (`MASTER-SESSION-ID`)  
 - ✅ Multi Deploy Options (Render, Heroku, Koyeb, etc.)
 
 ---
@@ -45,11 +43,11 @@ New bot WhatsApp by the master tech
 ## ⚙️ Deploy Easily
 
 ### 🔑 Get Your Session ID
-[![THE MASTER MDX-1 SESSION](https://img.shields.io/badge/THEMASTER%20-MDX-1%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://themaster-session-by-themaster-tech.onrender.com)
+[![THE-MASTER-MDX-1 SESSION](https://img.shields.io/badge/THE%20-MASTER%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-boy-tech-web.onrender.com/)
 
 
 ### 🔑 Get PAIR CODE
-[![THE MASTER MDX-1 PAIR](https://img.shields.io/badge/THEMASTER%20-MDX-1%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://zarya-5.onrender.com/pair)
+[![THE-MASTER-MDX-1 PAIR](https://img.shields.io/badge/THE%20-MASTER%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-boy-tech-web.onrender.com/pair)
 
 
 ---
@@ -70,7 +68,7 @@ New bot WhatsApp by the master tech
   <a href="https://replit.com/github/themaster5093/THE-MASTER-MDX-1">
     <img src="https://img.shields.io/badge/Deploy%20To%20Replit-FFA500?style=for-the-badge&logo=replit&logoColor=white" />
   </a>
-  <a href="https://railway.app/new/template?template= https://github.com/themaster5093/THE-MASTER-MDX-1">
+  <a href="https://railway.app/new/template?template=https://github.com/themaster5093/THE-MASTER-MDX-1">
     <img src="https://img.shields.io/badge/Deploy%20To%20Railway-8B5CF6?style=for-the-badge&logo=railway&logoColor=white" />
   </a>
   <a href="https://render.com/">
@@ -79,7 +77,7 @@ New bot WhatsApp by the master tech
 </p>
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template= https://github.com/themaster5093/THE-MASTER-MDX-1/tree/main">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/themaster5093/THE-MASTER-MDX-1/tree/main">
     <img src="https://img.shields.io/badge/Deploy-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white" />
   </a>
   <a href="https://host.talkdrove.com/share-bot/82">
@@ -101,6 +99,27 @@ New bot WhatsApp by the master tech
 </p>
 
 ---
+
+### ⚙️ Configuration `.env` File
+
+```env
+SESSION_ID="THE~MASTER~MDX~"
+AUTO_READ_STATUS=true
+STATUS_READ_MSG="*Status Seen By THE-MASTER-MDX-1⚡*"
+AUTO_STATUS_REPLY=false
+AUTO_REJECT_CALLS=false
+MODE="public"
+WELCOME=false
+AUTO_READ_MESSAGES=false
+AUTO_TYPING=false
+OWNER_NAME="THE MASTER TECH"
+OWNER_NUMBER="554488138425"
+AUTO_RECORDING=false
+ALWAYS_ONLINE=false
+AUTO_BLOCK=true
+AUTO_REACT=false
+PREFIX="."
+```
 
 ``` DEPLOY ON WORKFLOW ⚡
 
@@ -147,3 +166,11 @@ jobs:
     - name: Save state (Optional)
       run: |
         ./save_state.sh
+
+```
+
+## ❤️ Credits
+[![GitHub - themaster5093/THE-MASTER-MDX-1](https://img.shields.io/badge/GitHub-themaster5093-181717?style=for-the-badge&logo=github)](https://github.com/themaster5093)
+
+---
+[![ THANKS TO DAWENS-BOY](https://img.shields.io/badge/GitHub-DAWENS--BOY96-181717?style=for-the-badge&logo=github)](https://github.com/DAWENS-BOY96)
