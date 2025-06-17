@@ -35,7 +35,7 @@ cmd({
 👀 *Views:* ${yts.views}
 👤 *Author:* ${yts.author.name}
 🔗 *Link:* ${yts.url}
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ DAWENS BOY* ❤️`;
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝗧𝗛𝗘-𝗠𝗔𝗦𝗧𝗘𝗥-𝗠𝗗* ❤️`;
 
         // Send video directly with caption
         await conn.sendMessage(
