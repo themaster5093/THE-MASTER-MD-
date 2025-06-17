@@ -26,14 +26,13 @@ cmd({
     }
 
     const yt = data.data;
-    const caption = `╭━━━〔 *YOUTUBE STALKER* 〕━━⊷\n`
+    const caption = `╭━━━〔 *YOUTUBE STALKER* 〕━━━⊷\n`
       + `┃👤 *Username:* ${yt.username}\n`
       + `┃📊 *Subscribers:* ${yt.subscriber_count}\n`
       + `┃🎥 *Videos:* ${yt.video_count}\n`
       + `┃🔗 *Channel Link:* (${yt.channel})\n`
       + `╰━━━⪼\n\n`
-      
-      + `> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝗧𝗛𝗘-𝗠𝗔𝗦𝗧𝗘𝗥-𝗠𝗗*`;
+      + `> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝗔𝗬𝗧𝗔𝗡𝗔-𝗫𝗠𝗗-𝗩𝟭*`;
 
     await conn.sendMessage(from, {
       image: { url: yt.avatar },
