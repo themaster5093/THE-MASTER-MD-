@@ -24,7 +24,7 @@ async (conn, mek, m, { from, q, reply }) => {
         const response = await axios.get(url);
         const translation = response.data.responseData.translatedText;
 
-        const translationMessage = `> *𝗧𝗛𝗘-𝗠𝗔𝗦𝗧𝗘𝗥-𝗠𝗗-TRANSLATION*
+        const translationMessage = `> *AYTANA-XMD-V1-TRANSLATION*
 
 > 🔤 *Original*: ${textToTranslate}
 
@@ -60,3 +60,4 @@ await conn.sendMessage(from, { audio: { url: url }, mimetype: 'audio/mpeg', ptt:
 reply(`${a}`)
 }
 })
+  
