@@ -43,11 +43,11 @@
 ## ⚙️ Deploy Easily
 
 ### 🔑 Get Your Session ID
-[![THE-MASTER-MD SESSION](https://img.shields.io/badge/THE%20-MASTER%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://themaster-session-by-themaster-tech.onrender.com)
+[![THE-MASTER-MD SESSION](https://img.shields.io/badge/THE%20-MASTER%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://the-master-md-session-id-6.onrender.com/)
 
 
 ### 🔑 Get PAIR CODE
-[![THE-MASTER-MD PAIR](https://img.shields.io/badge/THE%20-MASTER%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://themaster-session-by-themaster-tech.onrender.com/pair)
+[![THE-MASTER-MD PAIR](https://img.shields.io/badge/THE%20-MASTER%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://the-master-md-session-id-6.onrender.com//pair)
 
 
 ---
