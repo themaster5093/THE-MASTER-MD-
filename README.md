@@ -103,7 +103,7 @@
 ### ⚙️ Configuration `.env` File
 
 ```env
-SESSION_ID="THE~MASTER~MD~"
+SESSION_ID="THE-MASTER ~MD~"
 AUTO_READ_STATUS=true
 STATUS_READ_MSG="*Status Seen By THE-MASTER-MD⚡*"
 AUTO_STATUS_REPLY=false
